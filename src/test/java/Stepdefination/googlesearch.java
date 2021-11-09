@@ -18,7 +18,6 @@ public class googlesearch {
 		System.out.println("Testing");
 
 		System.out.println("Testing2");
-=======
 		System.out.println("Subhankar Testing");
 		
 	    driver = new ChromeDriver();
